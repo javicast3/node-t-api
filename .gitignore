@@ -1,3 +1,4 @@
 node_modules/
 .DS_Store
 grep
+server/config/config.json
